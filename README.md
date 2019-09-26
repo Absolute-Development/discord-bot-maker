@@ -11,6 +11,7 @@ var Bot = require('discord-bot');
 
 var bot = new Bot({
 	token: <token>
+	game: <bot's game>
 });
 
 bot
@@ -34,7 +35,7 @@ A bot It is built using 3 types of components :
 
 `client`
 
-The DiscordApp client (discord.js), for documentation, refer to [discord.js docs](http://discordjs.readthedocs.org/en/latest/).
+The DiscordApp client (discord.js), for documentation, refer to [discord.js docs](http://discord.js.org/).
 
 ### Methods
 
