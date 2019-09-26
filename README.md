@@ -11,7 +11,7 @@ var Bot = require('discord-bot');
 
 var bot = new Bot({
 	token: <token>,
-	game: <bot\'s game>
+	game: <set bot game>
 });
 
 bot
