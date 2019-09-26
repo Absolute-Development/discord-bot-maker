@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-maker",
+  "version": "1.0.1",
+  "description": "A discord bot maker that is easy for everyone to use",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Absolute-Development/discord-bot-maker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Absolute Developent",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.0",
+    "cron-parser": "^1.0.1",
+    "discord.js": "^3.9.0",
+    "mongodb": "^2.0.48",
+    "require-directory": "^2.1.1",
+    "underscore": "^1.8.3"
+  },
+  "keywords": {
+    "Absolute-Development",
+    "discord-bot-maker"
+  }
+}
