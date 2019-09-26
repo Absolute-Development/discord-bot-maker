@@ -10,7 +10,7 @@ Here is an hello world using **discord-bot** :
 var Bot = require('discord-bot');
 
 var bot = new Bot({
-	token: <token>
+	token: <token>,
 	game: <bot's game>
 });
 
